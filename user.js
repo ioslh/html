@@ -1,0 +1,3 @@
+window.user = {
+  name: 'hello'
+}
